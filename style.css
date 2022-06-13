@@ -1,12 +1,31 @@
 * {
     text-align: center;
+    background-color: peachpuff;
+}
+
+.recipe-list, h1, h2{
+    font-family: 'Brush Script MT', cursive;
+    padding: 2px;
 }
 
 .recipe-list {
     list-style: None;
     padding-left: 0;
+    
+}
+
+h1, h2{
+    border: 5px solid navy;
+    border-radius: 10px;
+    color: black;
+    
 }
 
 h1 {
-    color: purple;
+    
+}
+
+h2 {
+    margin: auto;
+    width: 50%;
 }
