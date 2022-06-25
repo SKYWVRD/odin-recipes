@@ -5,4 +5,6 @@ This project was created to learn how to build a recipe website using HTML
 It forms part of the odin project course but will be changed to make it more unique once the skills are learnt
 
 == Skills Demonstrated ==
-
+- Flexbox
+- GIT in the terminal
+- Started using VIM with this project
